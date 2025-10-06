@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alexander Choi!
 
-🎓 **Computer Science student at the University of Nevada, Las Vegas (UNLV)**
-💡 Passionate about building tools that solve real-world problems
-🖥️ Currently learning full-stack development
+🎓 **Computer Science student at the University of Nevada, Las Vegas (UNLV)** <br>
+💡 Passionate about building tools that solve real-world problems <br>
+🖥️ Currently learning full-stack development <br>
 
 ---
 
