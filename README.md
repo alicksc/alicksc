@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 What I'm Learning
+### What I'm Learning
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** APIs, Node.js
 - **Programming:** C/C++, Assembly (x86, MIPS)  
@@ -14,13 +14,13 @@
 
 ---
 
-### 🔭 Current Projects
-- 🌐 **Personal Portfolio Website** — Showcasing my work, skills, and projects.  
-- ⛅️ **Weather App (JavaScript)** — Fetches real-time weather data using a public API and displays temperature, humidity, and conditions for any city.  
+### Current Projects
+- **Personal Portfolio Website** — Showcasing my work, skills, and projects.  
+- **Weather App (JavaScript)** — Fetches real-time weather data using a public API and displays temperature, humidity, and conditions for any city.  
 
 ---
 
-### 📫 Let's Connect!  
+### Let's Connect!  
 - **[LinkedIn](https://www.linkedin.com/in/alexander-choi-970ba5313/)**
 - **[Portfolio](https://alicksc.github.io/portfolio/)**
 
