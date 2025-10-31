@@ -9,7 +9,7 @@ world problems and hope to write code that can make a positive difference for ot
 
 ### What I'm Learning
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** APIs, Node.js
+- **Backend:** SQL, Node.js
 - **Programming:** C/C++, Python, Assembly (x86, MIPS)  
 - **Systems:** Linux, macOS, Ubuntu
 
