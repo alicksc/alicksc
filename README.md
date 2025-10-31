@@ -2,7 +2,7 @@
 
 I'm currently a Computer Science student at the University of Nevada, Las Vegas (UNLV) 
 and learning full-stack development. I'm passionate about building tools that solve-real 
-world problems, and hope to write code that can save lives!
+world problems and hope to write code that can make a positive difference for others!
 
 
 ---
@@ -16,8 +16,8 @@ world problems, and hope to write code that can save lives!
 ---
 
 ### Current Projects
-- **Personal Portfolio Website** — Showcasing my work, skills, and projects.  
-- **Weather App (JavaScript)** — Fetches real-time weather data using a public API and displays temperature, humidity, and conditions for any city.  
+- **Chess Puzzle App** — Interactive chess puzzle app built in Electron and JS. Built using over 1,000 puzzles sources from the Lichess puzzle database. Designed to help users practice tactics, visualize positions, and track improvement.
+- **typer** — Typing test that measures WPM and accuracy using random motivational quotes. Powered by a Node.js server and fetches quotes from ZenQuotes API.  
 
 ---
 
