@@ -13,6 +13,7 @@ world problems and hope to write code that can make a positive difference for ot
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
@@ -34,10 +35,12 @@ world problems and hope to write code that can make a positive difference for ot
 
 ---
 
-### Let's Connect!  
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alexander-choi-970ba5313/)
-[![Portfolio](https://img.shields.io/badge/ReadMe-018EF5?logo=Portfolio&logoColor=fff)](https://alicksc.github.io/portfolio/)
+### Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-choi-970ba5313/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://alicksc.github.io/portfolio/)
 
+<!-- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alexander-choi-970ba5313/)
+[![Portfolio](https://img.shields.io/badge/ReadMe-018EF5?logo=Portfolio&logoColor=fff)](https://alicksc.github.io/portfolio/) -->
 
 <!-- - **[LinkedIn](https://www.linkedin.com/in/alexander-choi-970ba5313/)**
 - **[Portfolio](https://alicksc.github.io/portfolio/)** -->
